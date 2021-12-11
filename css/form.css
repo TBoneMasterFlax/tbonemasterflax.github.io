@@ -1,0 +1,46 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ * {
+    box-sizing: border-box;
+}
+fieldset {
+    border: 2px solid lightblue;
+    border-radius: 5px;
+}
+form {
+    display: grid;
+}
+#speciesguess{
+    width: 25%;
+}
+#description{
+    width: 60%;
+}
+#dateobserved{
+    width: 25%;
+}
+#notes{
+    width: 60%;
+}
+#latitude{
+    width: 25%;
+}
+#longitude{
+    width: 25%;
+}
+#checkbox{
+}
+#photographername{
+    width: 60%;
+}
+#photographeremail{
+    width: 60%;
+}
+#photo{
+    width: 40%;
+}
+#license {
+    width: 60%;
+}
